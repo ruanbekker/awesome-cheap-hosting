@@ -5,5 +5,5 @@ Awesome List with Cheap Hosting Providers
 
 ### Europe
 
-- [OneProvider: Amsterdam](https://oneprovider.com/dedicated-servers/amsterdam-netherlands)
-- [OneProvider: France](https://oneprovider.com/dedicated-servers/paris-france)
+- [OneProvider: Amsterdam](https://oneprovider.com/dedicated-servers/amsterdam-netherlands) from $7.30
+- [OneProvider: France](https://oneprovider.com/dedicated-servers/paris-france) from $14.62
