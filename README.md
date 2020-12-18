@@ -14,6 +14,16 @@ Awesome List with Cheap Hosting Providers
 
 ## VPS
 
+### Africa
+
+| Name | VT-x | Price from | Location   | 
+| :------- | :---------: | :------: | ---------: |
+| [sagateway.com: South Africa](https://www.sagateway.com/linux-vps/) | No | R99 | JHB |
+| [vander.host: South Africa](https://vander.host/linux-vps-hosting-south-africa/) | No | R99 | JHB |
+| [Telasera.com: South Africa](https://www.telasera.com/linux-vps) | No | R99 | JHB/CT |
+| [VirtualServers.co.za: South Africa](https://virtualservers.co.za/linux-vps/) | No | R99 | JHB/CT |
+| [ivecloud.co.za: South Africa](https://ivecloud.co.za/linux-vps-hosting/) | No | R99 | JHB |
+
 ### Europe
 
 | Name | VT-x | Price from | Location   | 
