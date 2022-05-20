@@ -28,4 +28,5 @@ Awesome List with Cheap Hosting Providers
 
 | Name | VT-x | Price from | Location   | 
 | :------- | :---------: | :------: | ---------: |
+| [Contabo.com: Germany](https://contabo.com/en/pricing/)) | No | 4.99 EUR | Germany |
 | [NetCup.eu: Germany](https://www.netcup.eu/vserver/vps.php) | No | 2.62 EUR | Germany |
