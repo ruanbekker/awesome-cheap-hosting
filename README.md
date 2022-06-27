@@ -10,6 +10,8 @@ Awesome List with Cheap Hosting Providers
 | [OneProvider: Amsterdam](https://oneprovider.com/dedicated-servers/amsterdam-netherlands) | Not Tested | 7.30 USD | Amsterdam |
 | [OneProvider: France](https://oneprovider.com/dedicated-servers/paris-france) | Not Tested | 14.62 USD | France |
 | [NetCup.eu: Germany](https://www.netcup.eu/vserver/) | Not Tested | 10.00 EUR | France |
+| [Kimsufi](https://www.kimsufi.com/en/servers.xml) | Not Tested | 4.99 EUR | France and Canada |
+| [Pebblehost](https://pebblehost.com/dedicated/) | Not Tested | 19.99 USD | UK |
 
 
 ## VPS
